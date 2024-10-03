@@ -191,6 +191,10 @@ footer{
 	 flex-direction: column;
 	 
  }
+
+.tarjetas{
+	width:98%;
+}
  p{
 	 font-size:15px;
  }
@@ -213,5 +217,5 @@ footer{
 	 
 	 
 }
-
+}
 	
