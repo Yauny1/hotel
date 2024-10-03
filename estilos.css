@@ -181,19 +181,14 @@ footer{
 /*celular*/
 
 
-
 @media screen and (max-width:800px)
 
 
 {
- header, nav, main, footer,.contacto{
+ header, nav, main, footer,.contacto,.iconos{
 	 
 	
 	 flex-direction: column;
-	 
-	 
-	 
-	 
 	 
  }
  p{
@@ -202,6 +197,7 @@ footer{
  .logo{
 	 height:70%;
 	 width:100%;
+	 justify-content: center;
 	 
 	 
 	 
@@ -211,7 +207,7 @@ footer{
  }
  
  section, aside{
-	 width:90%;
+	 width:100%;
 	 margin-top:20px;
 	 margin-bottom:50px;
 	 
