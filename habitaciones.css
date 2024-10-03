@@ -191,7 +191,7 @@ img{
 
 
 {
- header, nav, main, footer,.contacto{
+ header, nav, main, footer,.contacto,.iconos, .habitaciones{
 	 
 	
 	 flex-direction: column;
@@ -207,6 +207,7 @@ img{
  .logo{
 	 height:70%;
 	 width:100%;
+	 justify-content: center;
 	 
 	 
 	 
